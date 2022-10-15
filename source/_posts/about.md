@@ -20,8 +20,8 @@ permalink: /about/
                 Personal Email: shaoshuai [at] acm.org<br>
                 <del>Work Email: shaoshuai [at] megvii.com</del><br>
                 Work Email: shaoshuai.0516 [at] bytedance.com<br>
-                <a ref="https://scholar.google.com/citations?user=uL9iyKgAAAAJ">[Google Scholar]</a>
-                <a ref="/ShuaiShao_CV.pdf">[CV]</a>
+                <a href="https://scholar.google.com/citations?user=uL9iyKgAAAAJ">[Google Scholar]</a>
+                <a href="/ShuaiShao_CV.pdf">[CV]</a>
                 </p>
             </td>
         </tr>
