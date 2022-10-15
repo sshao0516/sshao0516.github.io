@@ -88,12 +88,5 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/)
-[Zeming Li (黎泽明)](https://www.zemingli.com/)
-[Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/)
-[Tianyuan Zhang (张天远)](http://tianyuanzhang.com/)
-[Enze Xie (谢恩泽)](https://xieenze.github.io/)
-[Xinlong Wang (王鑫龙)](https://www.xloong.wang/)
-[Changhu Wang (王长虎)](https://changhu.wang/)
-[Longteng Guo (郭龙腾)](https://ltguo19.github.io/)
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/)
 <!--[Changqian Yu (余昌黔)](http://changqianyu.me/)-->
