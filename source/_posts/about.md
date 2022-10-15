@@ -1,6 +1,6 @@
 ---
 title: About me
-date: 2022-01-31 00:14:02
+permalink: /about/
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -12,7 +12,7 @@ date: 2022-01-31 00:14:02
     <table>
         <tr>
             <td width="50%">
-                <img src="https://www.sshao.com/images/9K7A4275.JPG" width=100%>
+                <img src="/images/9K7A4275.JPG" width=100%>
             </td>
             <td width="50%">
                 <p>
@@ -21,7 +21,7 @@ date: 2022-01-31 00:14:02
                 <del>Work Email: shaoshuai [at] megvii.com</del><br>
                 Work Email: shaoshuai.0516 [at] bytedance.com<br>
                 <a ref="https://scholar.google.com/citations?user=uL9iyKgAAAAJ">[Google Scholar]</a>
-                <a ref="https://www.sshao.com/ShuaiShao_CV.pdf">[CV]</a>
+                <a ref="/ShuaiShao_CV.pdf">[CV]</a>
                 </p>
             </td>
         </tr>
