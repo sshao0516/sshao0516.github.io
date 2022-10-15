@@ -53,11 +53,6 @@ Shuai has participated in programming contests since high school. He won a gold 
 - Organizer of Detection In the Wild Challenge Workshop (DIW) at CVPR2019. 
 
 # Publications
-**Journal**
-> [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation.](https://arxiv.org/pdf/2204.02111.pdf)
-Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
-In *IEEE Transactions on Image Processing*, 2022.
-
 **Conference**
 > [Objects365: A large-scale, high-quality dataset for object detection.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)
 **Shuai Shao**\*, Zeming Li\*, Tianyuan Zhang\*, Chao Peng\*, Gang Yu, Xiangyu Zhang, Jing Li, Jian Sun.
@@ -74,6 +69,11 @@ In *AAAI*, 2019.
 > [Repulsion Loss: Detecting Pedestrians in a Crowd.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Repulsion_Loss_Detecting_CVPR_2018_paper.pdf)
 Xinlong Wang, Tete Xiao, Yuning Jiang, **Shuai Shao**, Jian Sun, Chunhua Shen.
 In *CVPR*, 2018.
+
+**Journal**
+> [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation.](https://arxiv.org/pdf/2204.02111.pdf)
+Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
+In *IEEE Transactions on Image Processing*, 2022.
 
 **Pre-print**
 > [CrowdHuman: A Benchmark for Detecting Human in a Crowd.](https://arxiv.org/pdf/1805.00123)
