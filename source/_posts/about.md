@@ -16,7 +16,7 @@ permalink: /about/
             </td>
             <td width="50%">
                 <p>
-                Algorithm Engineer, ByteDance<br>
+                Lead Researcher, ByteDance<br>
                 Personal Email: shaoshuai [at] acm.org<br>
                 <del>Work Email: shaoshuai [at] megvii.com</del><br>
                 Work Email: shaoshuai.0516 [at] bytedance.com<br>
@@ -29,7 +29,7 @@ permalink: /about/
 </html>
 
 # Biography
-Shuai Shao is currently an Algorithm Engineer in Bytedance AI Lab. His research interests are in the field of **Object Detection**, **Multimodal Content Understanding** and **Building Large-Scale Dataset**, with particular interests in solving fundamental research problems and building real-world working systems.
+Shuai Shao is currently an Lead Researcher in Bytedance AI Lab. His research interests are in the field of **Object Detection**, **Multimodal Content Understanding** and **Building Large-Scale Dataset**, with particular interests in solving fundamental research problems and building real-world working systems.
 
 Shuai was born in Changchun, China. He received a B.S. degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Immediately following, he joined Megvii Research, and was mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and supervised by [Dr. Jian Sun](http://jiansun.org/). 
 
@@ -88,5 +88,4 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/)
-<!--[Changqian Yu (余昌黔)](http://changqianyu.me/)-->
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao](https://scholar.google.com/citations?user=3PFZAg0AAAAJ)
