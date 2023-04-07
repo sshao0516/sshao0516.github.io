@@ -1,6 +1,8 @@
 ---
 title: About me
 permalink: /about/
+date: 2022-10-16 20:38:00
+updated: 2023-04-07
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -36,6 +38,7 @@ Shuai was born in Changchun, China. He received a B.S. degree from [Jilin Univer
 Shuai has participated in programming contests since high school. He won a gold medal as the 2rd place in 2013 ACM-ICPC Asia Regional Contest and won the 19th place in 2014 ACM-ICPC World Finals. Then he was the coach of ACM-ICPC Team of Jilin University until graduation.
 
 # Recent News
+- [Apr. 2023] One paper is accepted by SIGIR 2023.
 - [Feb. 2022] One paper is accepted by TIP.
 - [Apr. 2019] We published a new dataset [Objects365](https://www.objects365.org/): A Large-scale, High-quality Dataset for Object Detection.
 - [Mar. 2019] We are organizing a workshop, [Detection In the Wild Challenge Workshop 2019](https://www.objects365.org/workshop2019.html), in conjunction with CVPR 2019.
