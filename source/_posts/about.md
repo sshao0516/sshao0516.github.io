@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2023-04-07
+updated: 2023-04-08
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -52,11 +52,15 @@ Shuai has participated in programming contests since high school. He won a gold 
 - Gold Medal (2nd Place) of The 2013 ACM-ICPC Asia Regional Contest, 2013.
 
 # Professional Activities
-- Reviewer of IJCV.
+- Reviewer of IJCV, CVPR2023.
 - Organizer of Detection In the Wild Challenge Workshop (DIW) at CVPR2019. 
 
 # Publications
 **Conference**
+> [MAMO: Fine-Grained Vision-Language Representations Learning with Masked Multimodal Modeling.](https://arxiv.org/pdf/2210.04183)
+Zijia Zhao*, Longteng Guo*, Xingjian He, **Shuai Shao**, Zehuan Yuan, Jing Liu.
+In *SIGIR*, 2023.
+
 > [Objects365: A large-scale, high-quality dataset for object detection.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)
 **Shuai Shao**\*, Zeming Li\*, Tianyuan Zhang\*, Chao Peng\*, Gang Yu, Xiangyu Zhang, Jing Li, Jian Sun.
 In *ICCV*, 2019.
