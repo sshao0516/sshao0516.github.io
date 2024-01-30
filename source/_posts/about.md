@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2023-04-08
+updated: 2024-01-30
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -31,13 +31,15 @@ updated: 2023-04-08
 </html>
 
 # Biography
-Shuai Shao is currently an Lead Researcher in Bytedance AI Lab. His research interests are in the field of **Object Detection**, **Multimodal Content Understanding** and **Building Large-Scale Dataset**, with particular interests in solving fundamental research problems and building real-world working systems.
+Shuai Shao, currently serving as a Lead Researcher at Bytedance <del>AI Lab</del> Monetization GenAI, is mentored [Dr. Zehuan Yuan](https://shallowyuan.github.io/).  His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
-Shuai was born in Changchun, China. He received a B.S. degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Immediately following, he joined Megvii Research, and was mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and supervised by [Dr. Jian Sun](http://jiansun.org/). 
+Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ).
 
-Shuai has participated in programming contests since high school. He won a gold medal as the 2rd place in 2013 ACM-ICPC Asia Regional Contest and won the 19th place in 2014 ACM-ICPC World Finals. Then he was the coach of ACM-ICPC Team of Jilin University until graduation.
+Shuai has been competing in programming contests since his high school years. He earned a gold medal in the 2013 ACM-ICPC Asia Regional Contest and secured the 19th position in the 2014 ACM-ICPC World Finals. Subsequently, he served as the coach for Jilin University's ACM-ICPC team until his graduation.
+
 
 # Recent News
+- [Dec. 2023] One paper is accepted by AAAI 2024.
 - [Apr. 2023] One paper is accepted by SIGIR 2023.
 - [Feb. 2022] One paper is accepted by TIP.
 - [Apr. 2019] We published a new dataset [Objects365](https://www.objects365.org/): A Large-scale, High-quality Dataset for Object Detection.
@@ -52,11 +54,15 @@ Shuai has participated in programming contests since high school. He won a gold 
 - Gold Medal (2nd Place) of The 2013 ACM-ICPC Asia Regional Contest, 2013.
 
 # Professional Activities
-- Reviewer of IJCV, CVPR2023.
+- Reviewer of IJCV, TIP, CVPR, ICCV, ACM MM.
 - Organizer of Detection In the Wild Challenge Workshop (DIW) at CVPR2019. 
 
 # Publications
 **Conference**
+> [EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE.](https://arxiv.org/pdf/2308.11971.pdf)
+Junyi Chen, Guo Longteng, Jia Sun, **Shuai Shao**, Zehuan Yuan, Liang Lin, Dongyu Zhang.
+In *AAAI*, 2024.
+
 > [MAMO: Fine-Grained Vision-Language Representations Learning with Masked Multimodal Modeling.](https://arxiv.org/pdf/2210.04183)
 Zijia Zhao*, Longteng Guo*, Xingjian He, **Shuai Shao**, Zehuan Yuan, Jing Liu.
 In *SIGIR*, 2023.
@@ -95,4 +101,4 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao](https://scholar.google.com/citations?user=3PFZAg0AAAAJ)
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen](https://ssyze.cn/)
