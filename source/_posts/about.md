@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2024-01-30
+updated: 2024-03-26
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -31,7 +31,7 @@ updated: 2024-01-30
 </html>
 
 # Biography
-Shuai Shao, currently serving as a Lead Researcher at Bytedance <del>AI Lab</del> Monetization GenAI, is mentored [Dr. Zehuan Yuan](https://shallowyuan.github.io/).  His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
+Shuai Shao, currently serving as a Lead Researcher at Bytedance <del>AI Lab</del> Monetization GenAI, is mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).  His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
 Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ).
 
@@ -61,32 +61,32 @@ Shuai has been competing in programming contests since his high school years. He
 **Conference**
 > [EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE.](https://arxiv.org/pdf/2308.11971.pdf)
 Junyi Chen, Guo Longteng, Jia Sun, **Shuai Shao**, Zehuan Yuan, Liang Lin, Dongyu Zhang.
-In *AAAI*, 2024.
+*AAAI*, 2024.
 
 > [MAMO: Fine-Grained Vision-Language Representations Learning with Masked Multimodal Modeling.](https://arxiv.org/pdf/2210.04183)
 Zijia Zhao*, Longteng Guo*, Xingjian He, **Shuai Shao**, Zehuan Yuan, Jing Liu.
-In *SIGIR*, 2023.
+*SIGIR*, 2023.
 
 > [Objects365: A large-scale, high-quality dataset for object detection.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)
 **Shuai Shao**\*, Zeming Li\*, Tianyuan Zhang\*, Chao Peng\*, Gang Yu, Xiangyu Zhang, Jing Li, Jian Sun.
-In *ICCV*, 2019.
+*ICCV*, 2019.
 
 > [Shape Robust Text Detection with Progressive Scale Expansion Network.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.pdf)
 Wenhai Wang*, Enze Xie*, Xiang Li*, Wenbo Hou, Tong Lu, Gang Yu, **Shuai Shao**.
-In *CVPR*, 2019.
+*CVPR*, 2019.
 
 > [Scene Text Detection with Supervised Pyramid Context Network.](https://ojs.aaai.org/index.php/AAAI/article/download/4935/4808)
 Enze Xie*, Yuhang Zang*, **Shuai Shao**, Gang Yu, Cong Yao, Guangyao Li.
-In *AAAI*, 2019.
+*AAAI*, 2019.
 
 > [Repulsion Loss: Detecting Pedestrians in a Crowd.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Repulsion_Loss_Detecting_CVPR_2018_paper.pdf)
 Xinlong Wang, Tete Xiao, Yuning Jiang, **Shuai Shao**, Jian Sun, Chunhua Shen.
-In *CVPR*, 2018.
+*CVPR*, 2018.
 
 **Journal**
 > [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation.](https://arxiv.org/pdf/2204.02111.pdf)
 Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
-In *IEEE Transactions on Image Processing*, 2022.
+*IEEE Transactions on Image Processing*, 2022.
 
 **Pre-print**
 > [CrowdHuman: A Benchmark for Detecting Human in a Crowd.](https://arxiv.org/pdf/1805.00123)
