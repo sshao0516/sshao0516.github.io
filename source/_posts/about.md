@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2024-03-26
+updated: 2024-10-01
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -18,10 +18,10 @@ updated: 2024-03-26
             </td>
             <td width="50%">
                 <p>
-                Lead Researcher, ByteDance<br>
+                Principal Researcher, Tencent Hunyuan<br>
                 Personal Email: shaoshuai [at] acm.org<br>
                 <del>Work Email: shaoshuai [at] megvii.com</del><br>
-                Work Email: shaoshuai.0516 [at] bytedance.com<br>
+                <del>Work Email: shaoshuai.0516 [at] bytedance.com</del><br>
                 <a href="https://scholar.google.com/citations?user=uL9iyKgAAAAJ">[Google Scholar]</a>
                 <a href="/ShuaiShao_CV.pdf">[CV]</a>
                 </p>
@@ -31,9 +31,9 @@ updated: 2024-03-26
 </html>
 
 # Biography
-Shuai Shao, currently serving as a Lead Researcher at Bytedance <del>AI Lab</del> Monetization GenAI, is mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).  His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
+Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan, reporting to Dr. Qinglin Lu. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
-Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ).
+Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ). Then he served ByteDance for four years, to be mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).
 
 Shuai has been competing in programming contests since his high school years. He earned a gold medal in the 2013 ACM-ICPC Asia Regional Contest and secured the 19th position in the 2014 ACM-ICPC World Finals. Subsequently, he served as the coach for Jilin University's ACM-ICPC team until his graduation.
 
@@ -101,4 +101,4 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen](https://ssyze.cn/)
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao (鲍一平)](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang (王枫)](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao (乔李盟)](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen (陈浚毅)](https://ssyze.cn/) [Junshu Tang (唐俊姝)](https://junshutang.github.io)
