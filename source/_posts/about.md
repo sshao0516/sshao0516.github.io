@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2024-10-01
+updated: 2025-07-10
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -84,11 +84,27 @@ Xinlong Wang, Tete Xiao, Yuning Jiang, **Shuai Shao**, Jian Sun, Chunhua Shen.
 *CVPR*, 2018.
 
 **Journal**
-> [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation.](https://arxiv.org/pdf/2204.02111.pdf)
+> [ChatSearch: A dataset and a generative retrieval model for general conversational image retrieval.](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003565)
+Zijia Zhao, Longteng Guo, Tongtian Yue, Erdong Hu, **Shuai Shao**, Zehuan Yuan, Hua Huang, Jing Liu.
+*Pattern Recognition*, 2025.
+
+> [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation.](https://ieeexplore.ieee.org/abstract/document/9745831)
 Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
 *IEEE Transactions on Image Processing*, 2022.
 
 **Pre-print**
+> [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition.](https://arxiv.org/pdf/2506.17201)
+Jiaqi Li, Junshu Tang, Zhiyong Xu, Longhuang Wu, Yuan Zhou, **Shuai Shao**, Tianbao Yu, Zhiguo Cao, Qinglin Lu.
+*arXiv preprint arXiv:2506.17201*, 2025.
+
+> [Hunyuan-Game: Industrial-grade Intelligent Game Creation Model.](https://arxiv.org/pdf/2505.14135)
+Project Leaders: Qinglin Lu, **Shuai Shao**, Longhuang Wu.
+*arXiv preprint arXiv:2505.14135*, 2025.
+
+> [ChatBridge: Bridging modalities with large language model as a language catalyst.](https://arxiv.org/pdf/2305.16103)
+Zijia Zhao, Longteng Guo, Tongtian Yue, Sihan Chen, **Shuai Shao**, Xinxin Zhu, Zehuan Yuan, Jing Liu.
+*arXiv preprint arXiv:2305.16103*, 2023.
+
 > [CrowdHuman: A Benchmark for Detecting Human in a Crowd.](https://arxiv.org/pdf/1805.00123)
 **Shuai Shao***, Zijian Zhao*, Boxun Li, Tete Xiao, Gang Yu, Xiangyu Zhang, Jian Sun.
 *arXiv preprint arXiv:1805.00123*, 2018.
@@ -101,4 +117,4 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao (鲍一平)](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang (王枫)](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao (乔李盟)](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen (陈浚毅)](https://ssyze.cn/) [Junshu Tang (唐俊姝)](https://junshutang.github.io)
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao (鲍一平)](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang (王枫)](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao (乔李盟)](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen (陈浚毅)](https://ssyze.cn/) [Junshu Tang (唐俊姝)](https://junshutang.github.io) [Ruihuang Li(李蕊煌)](https://scholar.google.com/citations?user=8CfyOtQAAAAJ)
