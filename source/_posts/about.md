@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2025-07-10
+updated: 2026-05-01
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -31,7 +31,7 @@ updated: 2025-07-10
 </html>
 
 # Biography
-Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan, reporting to Dr. Qinglin Lu. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
+Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
 Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ). Then he served ByteDance for four years, to be mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).
 
@@ -39,6 +39,9 @@ Shuai has been competing in programming contests since his high school years. He
 
 
 # Recent News
+- [May  2026] Two papers are accepted by ICML 2026.
+- [Feb. 2026] One paper is accepted by CVPR 2026.
+- [May  2025] One paper is accepted by Pattern Recognition.
 - [Dec. 2023] One paper is accepted by AAAI 2024.
 - [Apr. 2023] One paper is accepted by SIGIR 2023.
 - [Feb. 2022] One paper is accepted by TIP.
@@ -54,11 +57,23 @@ Shuai has been competing in programming contests since his high school years. He
 - Gold Medal (2nd Place) of The 2013 ACM-ICPC Asia Regional Contest, 2013.
 
 # Professional Activities
-- Reviewer of IJCV, TIP, CVPR, ICCV, ACM MM.
+- Reviewer of IJCV, TIP, CVPR, ICCV, ECCV, ACM MM, SIGGRAPH Asia.
 - Organizer of Detection In the Wild Challenge Workshop (DIW) at CVPR2019. 
 
 # Publications
-**Conference**
+**Conferences**
+> [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention.](https://arxiv.org/pdf/2602.05847)
+Zhangquan Chen, Jiale Tao, Ruihuang Li, Yihao Hu, Ruitao Chen, Zhantao Yang, Xinlei Yu, Haodong Jing, Manyuan Zhang, **Shuai Shao**, Biao Wang, Qinglin Lu, Ruqi Huang.
+*ICML*, 2026.
+
+> [TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment.](https://arxiv.org/pdf/2601.05729)
+Jin Wang*, Jianxiang Lu*, Guangzheng Xu, Comi Chen, Haoyu Yang, Linqing Wang, Peng Chen, Mingtao Chen, Zhichao Hu, Longhuang Wu, **Shuai Shao**, Qinglin Lu, Ping Luo.
+*ICML*, 2026.
+
+> [EffectMaker: Unifying Reasoning and Generation for Customized Visual Effect Creation.](https://arxiv.org/pdf/2603.06014)
+Shiyuan Yang, Ruihuang Li, Jiale Tao, **Shuai Shao**, Qinglin Lu, Jing Liao.
+*CVPR*, 2026.
+
 > [EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE.](https://arxiv.org/pdf/2308.11971.pdf)
 Junyi Chen, Guo Longteng, Jia Sun, **Shuai Shao**, Zehuan Yuan, Liang Lin, Dongyu Zhang.
 *AAAI*, 2024.
@@ -83,7 +98,7 @@ Enze Xie*, Yuhang Zang*, **Shuai Shao**, Gang Yu, Cong Yao, Guangyao Li.
 Xinlong Wang, Tete Xiao, Yuning Jiang, **Shuai Shao**, Jian Sun, Chunhua Shen.
 *CVPR*, 2018.
 
-**Journal**
+**Journals**
 > [ChatSearch: A dataset and a generative retrieval model for general conversational image retrieval.](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003565)
 Zijia Zhao, Longteng Guo, Tongtian Yue, Erdong Hu, **Shuai Shao**, Zehuan Yuan, Hua Huang, Jing Liu.
 *Pattern Recognition*, 2025.
@@ -92,13 +107,41 @@ Zijia Zhao, Longteng Guo, Tongtian Yue, Erdong Hu, **Shuai Shao**, Zehuan Yuan, 
 Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
 *IEEE Transactions on Image Processing*, 2022.
 
-**Pre-print**
+**Pre-prints**
+> [Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding.](https://arxiv.org/pdf/2604.11244)
+Tencent HY Team.
+*arXiv preprint arXiv:2604.11244*, 2026.
+
+> [OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control.](https://arxiv.org/pdf/2604.06010)
+Yukun Wang, Ruihuang Li, Jiale Tao, Shiyuan Yang, Liyi Chen, Zhantao Yang, Yulan Guo, **Shuai Shao**, Qinglin Lu.
+*arXiv preprint arXiv:2604.06010*, 2026.
+
+> [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model.](https://arxiv.org/pdf/2603.08812)
+Jinxiang Lai, Wenzhe Zhao, Zexin Lu, Hualei Zhang, Qinyu Yang, Rongwei Quan, Zhimin Li, **Shuai Shao**, Song Guo, Qinglin Lu.
+*arXiv preprint arXiv:2603.08812*, 2026.
+
+> [HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing.](https://arxiv.org/pdf/2603.07236)
+Tencent HY Team.
+*arXiv preprint arXiv:2603.07236*, 2026.
+
+> [VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation.](https://arxiv.org/pdf/2603.02681)
+Jinxiang Lai, Zexin Lu, Jiajun He, Rongwei Quan, Wenzhe Zhao, Qinyu Yang, Qi Chen, Qin Lin, Chuyue Li, Tao Gao, Yuhao Shan, **Shuai Shao**, Song Guo, Qinglin Lu.
+*arXiv preprint arXiv:2603.02681*, 2026.
+
+> [Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation.](https://arxiv.org/pdf/2601.05722)
+Jin Wang*, Jianxiang Lu*, Comi Chen, Guangzheng Xu, Haoyu Yang, Peng Chen, Na Zhang, Yifan Xu, Longhuang Wu, **Shuai Shao**, Qinglin Lu, Ping Luo.
+*arXiv preprint arXiv:2601.05722*, 2026.
+
+> [Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model.](https://arxiv.org/pdf/2511.23429)
+Junshu Tang*, Jiacheng Liu*, Jiaqi Li*, Longhuang Wu, Haoyu Yang, Penghao Zhao, Siruis Gong, Xiang Yuan, **Shuai Shao**, Qinglin Lu.
+*arXiv preprint arXiv:2511.23429*, 2025.
+
 > [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition.](https://arxiv.org/pdf/2506.17201)
-Jiaqi Li, Junshu Tang, Zhiyong Xu, Longhuang Wu, Yuan Zhou, **Shuai Shao**, Tianbao Yu, Zhiguo Cao, Qinglin Lu.
+Jiaqi Li*, Junshu Tang*, Zhiyong Xu, Longhuang Wu, Yuan Zhou, **Shuai Shao**, Tianbao Yu, Zhiguo Cao, Qinglin Lu.
 *arXiv preprint arXiv:2506.17201*, 2025.
 
 > [Hunyuan-Game: Industrial-grade Intelligent Game Creation Model.](https://arxiv.org/pdf/2505.14135)
-Project Leaders: Qinglin Lu, **Shuai Shao**, Longhuang Wu.
+Tencent HY Team.
 *arXiv preprint arXiv:2505.14135*, 2025.
 
 > [ChatBridge: Bridging modalities with large language model as a language catalyst.](https://arxiv.org/pdf/2305.16103)
