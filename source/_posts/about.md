@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2026-05-01
+updated: 2026-06-19
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -31,7 +31,7 @@ updated: 2026-05-01
 </html>
 
 # Biography
-Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
+Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**, with a recent focus on AI Agents. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
 Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ). Then he served ByteDance for four years, to be mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).
 
@@ -39,6 +39,7 @@ Shuai has been competing in programming contests since his high school years. He
 
 
 # Recent News
+- [Jun. 2026] Two papers are accepted by ECCV 2026.
 - [May  2026] Two papers are accepted by ICML 2026.
 - [Feb. 2026] One paper is accepted by CVPR 2026.
 - [May  2025] One paper is accepted by Pattern Recognition.
@@ -62,6 +63,14 @@ Shuai has been competing in programming contests since his high school years. He
 
 # Publications
 **Conferences**
+> [OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control.](https://arxiv.org/pdf/2604.06010)
+Yukun Wang, Ruihuang Li, Jiale Tao, Shiyuan Yang, Liyi Chen, Zhantao Yang, Yulan Guo, **Shuai Shao**, Qinglin Lu.
+*ECCV*, 2026.
+
+> [Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation.](https://arxiv.org/pdf/2601.05722)
+Jin Wang*, Jianxiang Lu*, Comi Chen, Guangzheng Xu, Haoyu Yang, Peng Chen, Na Zhang, Yifan Xu, Longhuang Wu, **Shuai Shao**, Qinglin Lu, Ping Luo.
+*ECCV*, 2026.
+
 > [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention.](https://arxiv.org/pdf/2602.05847)
 Zhangquan Chen, Jiale Tao, Ruihuang Li, Yihao Hu, Ruitao Chen, Zhantao Yang, Xinlei Yu, Haodong Jing, Manyuan Zhang, **Shuai Shao**, Biao Wang, Qinglin Lu, Ruqi Huang.
 *ICML*, 2026.
@@ -112,10 +121,6 @@ Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
 Tencent HY Team.
 *arXiv preprint arXiv:2604.11244*, 2026.
 
-> [OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control.](https://arxiv.org/pdf/2604.06010)
-Yukun Wang, Ruihuang Li, Jiale Tao, Shiyuan Yang, Liyi Chen, Zhantao Yang, Yulan Guo, **Shuai Shao**, Qinglin Lu.
-*arXiv preprint arXiv:2604.06010*, 2026.
-
 > [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model.](https://arxiv.org/pdf/2603.08812)
 Jinxiang Lai, Wenzhe Zhao, Zexin Lu, Hualei Zhang, Qinyu Yang, Rongwei Quan, Zhimin Li, **Shuai Shao**, Song Guo, Qinglin Lu.
 *arXiv preprint arXiv:2603.08812*, 2026.
@@ -127,10 +132,6 @@ Tencent HY Team.
 > [VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation.](https://arxiv.org/pdf/2603.02681)
 Jinxiang Lai, Zexin Lu, Jiajun He, Rongwei Quan, Wenzhe Zhao, Qinyu Yang, Qi Chen, Qin Lin, Chuyue Li, Tao Gao, Yuhao Shan, **Shuai Shao**, Song Guo, Qinglin Lu.
 *arXiv preprint arXiv:2603.02681*, 2026.
-
-> [Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation.](https://arxiv.org/pdf/2601.05722)
-Jin Wang*, Jianxiang Lu*, Comi Chen, Guangzheng Xu, Haoyu Yang, Peng Chen, Na Zhang, Yifan Xu, Longhuang Wu, **Shuai Shao**, Qinglin Lu, Ping Luo.
-*arXiv preprint arXiv:2601.05722*, 2026.
 
 > [Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model.](https://arxiv.org/pdf/2511.23429)
 Junshu Tang*, Jiacheng Liu*, Jiaqi Li*, Longhuang Wu, Haoyu Yang, Penghao Zhao, Siruis Gong, Xiang Yuan, **Shuai Shao**, Qinglin Lu.
