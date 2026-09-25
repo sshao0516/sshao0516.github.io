@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 date: 2022-10-16 20:38:00
-updated: 2026-06-19
+updated: 2026-09-25
 ---
 # Shuai Shao (邵帅)
 <html>
@@ -31,7 +31,7 @@ updated: 2026-06-19
 </html>
 
 # Biography
-Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan. His research endeavors are deeply rooted in the realms of **Multimodal Content Understanding** and **AI-Generated Content**, with a recent focus on AI Agents. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
+Shuai Shao, currently serving as a Principal Researcher at Tencent Hunyuan. His research centers on foundation models with agentic capabilities, with prior work spanning multimodal content understanding and AI-generated content. Shuai is particularly passionate about developing robust systems that are applicable in real-world scenarios.
 
 Shuai hails from Changchun, China, and earned his Bachelor of Science degree from [Jilin University](http://www.jlu.edu.cn/) in 2017. Upon graduation, he embarked on his professional journey at Megvii Research, where he was fortunate to be mentored by [Dr. Gang Yu](http://www.skicyyu.org/) and under the supervision of [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ). Then he served ByteDance for four years, to be mentored by [Dr. Zehuan Yuan](https://shallowyuan.github.io/).
 
@@ -39,6 +39,7 @@ Shuai has been competing in programming contests since his high school years. He
 
 
 # Recent News
+- [Sep. 2026] Three papers are accepted by NeurIPS 2026.
 - [Jun. 2026] Two papers are accepted by ECCV 2026.
 - [May  2026] Two papers are accepted by ICML 2026.
 - [Feb. 2026] One paper is accepted by CVPR 2026.
@@ -63,6 +64,18 @@ Shuai has been competing in programming contests since his high school years. He
 
 # Publications
 **Conferences**
+> [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model.](https://arxiv.org/pdf/2603.08812)
+Jinxiang Lai, Wenzhe Zhao, Zexin Lu, Hualei Zhang, Qinyu Yang, Rongwei Quan, Zhimin Li, **Shuai Shao**, Song Guo, Qinglin Lu.
+*NeurIPS*, 2026.
+
+> [OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning.]()
+Zhongyu Yang, Jiale Tao, Ruitao Chen, Zuhao Yang, Yingfang Yuan, Xueliang Zhao, Auden, Kai Wang, **Shuai Shao**, Biao Wang, Steve Yves, Qinglin Lu.
+*NeurIPS*, 2026.
+
+> [Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models.]()
+Xiaokun Feng, Junshu Tang, zeyi lin, Ling-Hao Chen, **Shuai Shao**, Qinglin Lu, Kaiqi Huang.
+*NeurIPS*, 2026.
+
 > [OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control.](https://arxiv.org/pdf/2604.06010)
 Yukun Wang, Ruihuang Li, Jiale Tao, Shiyuan Yang, Liyi Chen, Zhantao Yang, Yulan Guo, **Shuai Shao**, Qinglin Lu.
 *ECCV*, 2026.
@@ -121,10 +134,6 @@ Bo Yuan, Danpei Zhao, **Shuai Shao**, Zehuan Yuan, Changhu Wang.
 Tencent HY Team.
 *arXiv preprint arXiv:2604.11244*, 2026.
 
-> [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model.](https://arxiv.org/pdf/2603.08812)
-Jinxiang Lai, Wenzhe Zhao, Zexin Lu, Hualei Zhang, Qinyu Yang, Rongwei Quan, Zhimin Li, **Shuai Shao**, Song Guo, Qinglin Lu.
-*arXiv preprint arXiv:2603.08812*, 2026.
-
 > [HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing.](https://arxiv.org/pdf/2603.07236)
 Tencent HY Team.
 *arXiv preprint arXiv:2603.07236*, 2026.
@@ -161,4 +170,4 @@ Bo Li, Tianfu Wu, **Shuai Shao**, Lun Zhang, Rufeng Chu.
 
 # Links
 Research Collaborators:
-[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao (鲍一平)](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang (王枫)](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao (乔李盟)](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen (陈浚毅)](https://ssyze.cn/) [Junshu Tang (唐俊姝)](https://junshutang.github.io) [Ruihuang Li(李蕊煌)](https://scholar.google.com/citations?user=8CfyOtQAAAAJ)
+[Mr. Yuning Jiang](https://yuningjiang.github.io/) [Zeming Li (黎泽明)](https://www.zemingli.com/) [Lan-Zhe Guo (郭兰哲)](http://www.guolz.com/) [Tianyuan Zhang (张天远)](http://tianyuanzhang.com/) [Enze Xie (谢恩泽)](https://xieenze.github.io/) [Xinlong Wang (王鑫龙)](https://www.xloong.wang/) [Changhu Wang (王长虎)](https://changhu.wang/) [Longteng Guo (郭龙腾)](https://ltguo19.github.io/) [Changqian Yu (余昌黔)](https://www.changqianyu.me/) [Bo Yuan (苑博)](https://ybio.github.io/) [Yiping Bao (鲍一平)](https://scholar.google.com/citations?user=EB9_W4kAAAAJ) [Feng Wang (王枫)](https://scholar.google.com/citations?user=ob2gp1QAAAAJ) [Limeng Qiao (乔李盟)](https://scholar.google.com/citations?user=3PFZAg0AAAAJ) [Junyi Chen (陈浚毅)](https://ssyze.cn/) [Junshu Tang (唐俊姝)](https://junshutang.github.io) [Ruihuang Li (李蕊煌)](https://scholar.google.com/citations?user=8CfyOtQAAAAJ) [Xiaokun Feng (丰效坤)](https://xiaokunfeng.github.io/)
